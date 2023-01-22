@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+}
+body{
+    background-color: rgb(163, 212, 232);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 40px;
+}
+img{
+    display: flex;
+    align-items: center;
+}
